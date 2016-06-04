@@ -74,7 +74,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="portfolio/cabin.png" class="img-responsive" alt="">
+                        <img src="ENGL467.jpg" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -84,7 +84,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="portfolio/cake.png" class="img-responsive" alt="">
+                        <img src="ENSC203.jpg" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -94,7 +94,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="portfolio/circus.png" class="img-responsive" alt="">
+                        <img src="MEDS116.jpg" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -128,11 +128,11 @@
                         <div class="modal-body">
                             <h2>Worlds in Place: Settler and Indigenous Stories of Kingston/Cateraqui</h2>
                             <hr class="star-primary">
-                            <img src="portfolio/game.png" class="img-responsive img-centered" alt="">
+                            <img src="ENGL467.jpg" class="img-responsive img-centered" alt="">
                             <p>An English Language and Literature seminar course that explores the Indigenous history of the land through archival materials, community conversations, and a mix of memoir, poetry and artwork. <a href="http://www.indiviapp.com/">PUT LINK TO COURSE DESCRIPTION</a>.</p>
                             <ul class="list-inline item-details">
                                 <li>Course:
-                                    <strong><a href="http://startbootstrap.com">ENG 467</a>
+                                    <strong><a href="http://startbootstrap.com">ENGL 467</a>
                                     </strong>
                                 </li>
 								<li>Faculty
@@ -165,7 +165,7 @@
                         <div class="modal-body">
                             <h2>Environment and Sustainability</h2>
                             <hr class="star-primary">
-                            <img src="portfolio/cake.png" class="img-responsive img-centered" alt="">
+                            <img src="ENSC203.jpg" class="img-responsive img-centered" alt="">
                             <p>This course gives a foundation of sustainability knowledge and what is needed to reach future sustainability goals. <a href="C:\wamp64\www\typica login\index.html">Taco 'bout it</a> is the solution.</p>
                             <ul class="list-inline item-details">
                                 <li>Course
@@ -202,7 +202,7 @@
                         <div class="modal-body">
                             <h2>Population and Global Health</h2>
                             <hr class="star-primary">
-                            <img src="portfolio/circus.png" class="img-responsive img-centered" alt="">
+                            <img src="MEDS116.jpg" class="img-responsive img-centered" alt="">
                             <p>Introduces students to the foundation of population and global health in relation to Indigenous history and culture better preparing students for difficult cases. <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Graphic of skills learned</a>. I have learned these skills</p>
                             <ul class="list-inline item-details">
                                 <li>Course
