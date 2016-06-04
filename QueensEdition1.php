@@ -25,7 +25,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#page-top">New Summer Courses</a>
+                <a class="navbar-brand" href="#page-top">Queen's University New Courses</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -51,18 +51,18 @@
                     <div class="intro-text">
                         <span class="name">Queen's University</span>
                         <hr class="star-light">
-                        <span class="skills">New Courses offered for the 2016-2017 school year</span>
+                       <!-- <span class="skills">Queen's 2016-2017</span>-->
                     </div>
                 </div>
             </div>
         </div>
-    </header>
+    </header> 
     <!-- Portfolio Grid Section -->
     <section id="portfolio">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Click The Image to Find Out More</h2>
+                    <h2>New Courses For The 2016-2017 School Year</h2>
                     <hr class="star-primary">
                 </div>
             </div>
@@ -129,18 +129,18 @@
                             <h2>Worlds in Place: Settler and Indigenous Stories of Kingston/Cateraqui</h2>
                             <hr class="star-primary">
                             <img src="ENGL467.jpg" class="img-responsive img-centered" alt="">
-                            <p>An English Language and Literature seminar course that explores the Indigenous history of the land through archival materials, community conversations, and a mix of memoir, poetry and artwork. <a href="http://www.indiviapp.com/">PUT LINK TO COURSE DESCRIPTION</a>.</p>
+                            <p>An English Language and Literature seminar course that explores the Indigenous history of the land through archival materials, community conversations, and a mix of memoir, poetry and artwork.</p>
                             <ul class="list-inline item-details">
                                 <li>Course:
-                                    <strong><a href="http://startbootstrap.com">ENGL 467</a>
+                                    <strong><a href="http://qcumber.ca/catalog/ENGL/467/">ENGL 467</a>
                                     </strong>
                                 </li>
-								<li>Faculty
-                                    <strong><a href="http://startbootstrap.com">Arts and Science</a>
+								<li>Faculty:
+                                    <strong><a href="http://www.queensu.ca/artsci/">Arts and Science</a>
                                     </strong>
                                 </li>
-                                <li>Professor
-                                    <strong><a href="http://startbootstrap.com">Dr. Laura Murray</a>
+                                <li>Professor:
+                                    <strong><a href="http://www.ratemyprofessors.com/campusRatings.jsp?sid=1466">Dr. Laura Murray</a>
                                     </strong>
                                 </li>
                             </ul>
@@ -166,18 +166,18 @@
                             <h2>Environment and Sustainability</h2>
                             <hr class="star-primary">
                             <img src="ENSC203.jpg" class="img-responsive img-centered" alt="">
-                            <p>This course gives a foundation of sustainability knowledge and what is needed to reach future sustainability goals. <a href="C:\wamp64\www\typica login\index.html">Taco 'bout it</a> is the solution.</p>
+                            <p>This course gives a foundation of sustainability knowledge and what is needed to reach future sustainability goals.</p>
                             <ul class="list-inline item-details">
-                                <li>Course
-                                    <strong><a href="http://startbootstrap.com">ENSC 203</a>
+                                <li>Course:
+                                    <strong><a href="http://qcumber.ca/catalog/ENSC/203/">ENSC 203</a>
                                     </strong>
                                 </li>
-								<li>Faculty
-                                    <strong><a href="http://startbootstrap.com">School of Environmental Studies </a>
+								<li>Faculty:
+                                    <strong><a href="http://www.queensu.ca/ensc/home">School of Environmental Studies </a>
                                     </strong>
                                 </li>
-                                <li>Professors
-                                    <strong><a href="http://startbootstrap.com">Dr. Allison Goebel, Dr. Stephen Brown, and Dr. Alice Hovorka </a>
+                                <li>Professors:
+                                    <strong><a href="http://www.ratemyprofessors.com/campusRatings.jsp?sid=1466">Dr. Allison Goebel, Dr. Stephen Brown, and Dr. Alice Hovorka </a>
                                     </strong>
                                 </li>
                             </ul>
@@ -203,18 +203,18 @@
                             <h2>Population and Global Health</h2>
                             <hr class="star-primary">
                             <img src="MEDS116.jpg" class="img-responsive img-centered" alt="">
-                            <p>Introduces students to the foundation of population and global health in relation to Indigenous history and culture better preparing students for difficult cases. <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Graphic of skills learned</a>. I have learned these skills</p>
+                            <p>Introduces students to the foundation of population and global health in relation to Indigenous history and culture better preparing students for difficult cases.</p>
                             <ul class="list-inline item-details">
-                                <li>Course
-                                    <strong><a href="http://startbootstrap.com">MEDS 116</a>
+                                <li>Course:
+                                    <strong><a href="http://qcumber.ca/catalog/MEDS/">MEDS 116</a>
                                     </strong>
                                 </li>
-								<li>Faculty
-                                    <strong><a href="http://startbootstrap.com">School of Medicine</a>
+								<li>Faculty:
+                                    <strong><a href="https://meds.queensu.ca/">School of Medicine</a>
                                     </strong>
                                 </li>
-                                <li>Professors
-                                    <strong><a href="http://startbootstrap.com">Dr. Lindsay Davidson and Dr. Melanie Walker</a>
+                                <li>Professors:
+                                    <strong><a href="http://www.ratemyprofessors.com/campusRatings.jsp?sid=1466">Dr. Lindsay Davidson and Dr. Melanie Walker</a>
                                     </strong>
                                 </li>
                             </ul>
