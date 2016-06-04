@@ -132,15 +132,15 @@
                             <p>An English Language and Literature seminar course that explores the Indigenous history of the land through archival materials, community conversations, and a mix of memoir, poetry and artwork.</p>
                             <ul class="list-inline item-details">
                                 <li>Course:
-                                    <strong><a href="http://qcumber.ca/catalog/ENGL/467/">ENGL 467</a>
+                                    <strong>ENGL 467
                                     </strong>
                                 </li>
 								<li>Faculty:
-                                    <strong><a href="http://www.queensu.ca/artsci/">Arts and Science</a>
+                                    <strong><a href="http://www.queensu.ca/english/home">Arts and Science</a>
                                     </strong>
                                 </li>
                                 <li>Professor:
-                                    <strong><a href="http://www.ratemyprofessors.com/campusRatings.jsp?sid=1466">Dr. Laura Murray</a>
+                                    <strong>Dr. Laura Murray
                                     </strong>
                                 </li>
                             </ul>
@@ -169,7 +169,7 @@
                             <p>This course gives a foundation of sustainability knowledge and what is needed to reach future sustainability goals.</p>
                             <ul class="list-inline item-details">
                                 <li>Course:
-                                    <strong><a href="http://qcumber.ca/catalog/ENSC/203/">ENSC 203</a>
+                                    <strong>ENSC 203
                                     </strong>
                                 </li>
 								<li>Faculty:
@@ -177,7 +177,7 @@
                                     </strong>
                                 </li>
                                 <li>Professors:
-                                    <strong><a href="http://www.ratemyprofessors.com/campusRatings.jsp?sid=1466">Dr. Allison Goebel, Dr. Stephen Brown, and Dr. Alice Hovorka </a>
+                                    <strong>Dr. Allison Goebel, Dr. Stephen Brown, and Dr. Alice Hovorka </a>
                                     </strong>
                                 </li>
                             </ul>
@@ -206,7 +206,7 @@
                             <p>Introduces students to the foundation of population and global health in relation to Indigenous history and culture better preparing students for difficult cases.</p>
                             <ul class="list-inline item-details">
                                 <li>Course:
-                                    <strong><a href="http://qcumber.ca/catalog/MEDS/">MEDS 116</a>
+                                    <strong>MEDS 116
                                     </strong>
                                 </li>
 								<li>Faculty:
@@ -214,7 +214,7 @@
                                     </strong>
                                 </li>
                                 <li>Professors:
-                                    <strong><a href="http://www.ratemyprofessors.com/campusRatings.jsp?sid=1466">Dr. Lindsay Davidson and Dr. Melanie Walker</a>
+                                    <strong>Dr. Lindsay Davidson and Dr. Melanie Walker
                                     </strong>
                                 </li>
                             </ul>
