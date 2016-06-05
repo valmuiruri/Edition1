@@ -140,7 +140,7 @@
                                     </strong>
                                 </li>
                                 <li>Professor:
-                                    <strong>Dr. Laura Murray
+                                    <strong>Laura Murray
                                     </strong>
                                 </li>
                             </ul>
@@ -177,7 +177,7 @@
                                     </strong>
                                 </li>
                                 <li>Professors:
-                                    <strong>Dr. Allison Goebel, Dr. Stephen Brown, and Dr. Alice Hovorka </a>
+                                    <strong> Allison Goebel,Stephen Brown, and Alice Hovorka </a>
                                     </strong>
                                 </li>
                             </ul>
