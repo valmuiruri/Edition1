@@ -126,7 +126,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Worlds in Place: Settler and Indigenous Stories of Kingston/Cateraqui</h2>
+                            <h2>Words in Place: Settler and Indigenous Stories of Kingston/Cateraqui</h2>
                             <hr class="star-primary">
                             <img src="ENGL467.jpg" class="img-responsive img-centered" alt="">
                             <p>An English Language and Literature seminar course that explores the Indigenous history of the land through archival materials, community conversations, and a mix of memoir, poetry and artwork.</p>
