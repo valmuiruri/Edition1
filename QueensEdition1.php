@@ -177,7 +177,7 @@
                                     </strong>
                                 </li>
                                 <li>Professors:
-                                    <strong> Allison Goebel,Stephen Brown, and Alice Hovorka </a>
+                                    <strong> Allison Goebel, Stephen Brown, and Alice Hovorka </a>
                                     </strong>
                                 </li>
                             </ul>
